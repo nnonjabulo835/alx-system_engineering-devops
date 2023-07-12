@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($TRUEKNOWLEGE + 123))
+echo $((128 + $TRUEKNOWLEGE)) 
